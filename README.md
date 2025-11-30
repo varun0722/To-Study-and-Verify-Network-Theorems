@@ -1,4 +1,3 @@
-# To-Study-and-Verify-Network-Theorems
 #  *Experiment 3: To Study and Verify Network Theorems*  
 ### *(Thevenin's Theorem & Norton’s Theorem)*
 ---
